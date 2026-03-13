@@ -1,4 +1,4 @@
-<img src="'/Users/arpityadav526/Desktop/Unique 5120x1440 Fall Wallpaper.jpeg'" width="100%" alt="Intro Banner"/>
+<img src="/Users/arpityadav526/Desktop/Unique 5120x1440 Fall Wallpaper.jpeg" width="100%" alt="Intro Banner"/>
 
 <h2 align="center">Hi, I'm Arpit 👋</h2>
 
