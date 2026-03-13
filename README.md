@@ -70,6 +70,7 @@ Air pollution dashboards show how bad the air is, but they rarely tell us what t
 
 **Tech:** Python · FastAPI/Flask · React · REST APIs · JWT · Docker · CI/CD
 
+[🔗 View Repository](https://github.com/jp-coder16/Capstone.git)
 ---
 
 ## 📊 GitHub Stats
@@ -77,7 +78,6 @@ Air pollution dashboards show how bad the air is, but they rarely tell us what t
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpityadav526&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpityadav526&layout=compact&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arpityadav526&theme=default)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arpityadav526&theme=default&margin-w=15)
 
 ## 📫 Connect With Me
 
